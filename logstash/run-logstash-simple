@@ -1,0 +1,2 @@
+#!/bin/bash
+/usr/share/logstash/bin/logstash -f ~/IdeaProjects/elk/logstash/logstash-simple.conf --path.settings /etc/logstash
